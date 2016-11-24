@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "breadcrumbs:toggle"
   },
-  "repository": "https://github.com/atom/breadcrumbs",
+  "repository": "https://github.com/lexac1/breadcrumbs",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
