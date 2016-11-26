@@ -20,7 +20,7 @@
             },
             {
               "label": "ChangeValue",
-              "command": "bcrumbs:changeValue"
+              "command": "breadcrumbs:changeValue"
             }
           ]
         }
