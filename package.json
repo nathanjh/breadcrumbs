@@ -4,7 +4,9 @@
   "version": "0.2.0",
   "description": "Time travel made real, release date: 12-1-16",
   "keywords": [],
-  "activationCommands": {},
+  "activationCommands": {
+    "atom-workspace": "breadcrumbs:toggle"
+  },
   "repository": "https://github.com/lexac1/breadcrumbs",
   "license": "MIT",
   "engines": {
