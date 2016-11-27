@@ -21,6 +21,10 @@
             {
               "label": "ChangeValue",
               "command": "breadcrumbs:changeValue"
+            },
+            {
+              "label": "Record",
+              "command": "breadcrumbs:toggleRecord"              
             }
           ]
         }
