@@ -19,12 +19,12 @@
               "command": "breadcrumbs:toggle"
             },
             {
-              "label": "ChangeValue",
-              "command": "breadcrumbs:changeValue"
+              "label": "Record",
+              "command": "breadcrumbs:recordOn"
             },
             {
-              "label": "Record",
-              "command": "breadcrumbs:toggleRecord"
+              "label": "Record-Off",
+              "command": "breadcrumbs:recordOff"
             },
             {
               "label": "UndoChanges",
@@ -32,11 +32,7 @@
             },
             {
               "label": "RedoChanges",
-              "command": "breadcrumbs:recordOn"
-            },
-            {
-              "label": "Record-Off",
-              "command": "breadcrumbs:recordOff"
+              "command": "breadcrumbs:redoChanges"
             }
           ]
         }
