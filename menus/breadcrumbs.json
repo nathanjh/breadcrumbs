@@ -24,11 +24,23 @@
             },
             {
               "label": "Record",
+<<<<<<< HEAD
+              "command": "breadcrumbs:toggleRecord"
+            },
+            {
+              "label": "UndoChanges",
+              "command": "breadcrumbs:undoChanges"
+            },
+            {
+              "label": "RedoChanges",
+              "command": "breadcrumbs:redoChanges"
+=======
               "command": "breadcrumbs:recordOn"
             },
             {
               "label": "Record-Off",
               "command": "breadcrumbs:recordOff"
+>>>>>>> f325ac7fd763dc83adc1c67ad6c6c5b245ad152a
             }
           ]
         }
