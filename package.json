@@ -1,7 +1,7 @@
 {
   "name": "breadcrumbs",
   "main": "./lib/breadcrumbs",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Time travel made real, release date: 12-1-16",
   "keywords": [],
   "activationCommands": {},
