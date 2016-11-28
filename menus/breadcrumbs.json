@@ -24,7 +24,15 @@
             },
             {
               "label": "Record",
-              "command": "breadcrumbs:toggleRecord"              
+              "command": "breadcrumbs:toggleRecord"
+            },
+            {
+              "label": "UndoChanges",
+              "command": "breadcrumbs:undoChanges"
+            },
+            {
+              "label": "RedoChanges",
+              "command": "breadcrumbs:redoChanges"
             }
           ]
         }
