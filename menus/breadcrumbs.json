@@ -24,7 +24,11 @@
             },
             {
               "label": "Record",
-              "command": "breadcrumbs:toggleRecord"              
+              "command": "breadcrumbs:recordOn"
+            },
+            {
+              "label": "Record-Off",
+              "command": "breadcrumbs:recordOff"
             }
           ]
         }

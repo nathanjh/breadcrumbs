@@ -4,9 +4,7 @@
   "version": "0.3.0",
   "description": "Time travel made real, release date: 12-1-16",
   "keywords": [],
-  "activationCommands": {
-
-  },
+  "activationCommands": {},
   "repository": "https://github.com/lexac1/breadcrumbs",
   "license": "MIT",
   "engines": {
