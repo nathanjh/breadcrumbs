@@ -4,6 +4,10 @@
       {
         "label": "Toggle breadcrumbs",
         "command": "breadcrumbs:toggle"
+      },
+      {
+        "label": "New Comment",
+        "command": "breadcrumbs:newComment"
       }
     ]
   },
@@ -36,7 +40,11 @@
             },
             {
               "label": "checkBufLength",
-              "command": "breadcrumbs:checkUndoBufferLength"              
+              "command": "breadcrumbs:checkUndoBufferLength"
+            },
+            {
+              "label": "New Comment",
+              "command": "breadcrumbs:newComment"
             }
           ]
         }
