@@ -33,6 +33,10 @@
             {
               "label": "RedoChanges",
               "command": "breadcrumbs:redoChanges"
+            },
+            {
+              "label": "checkBufLength",
+              "command": "breadcrumbs:checkUndoBufferLength"              
             }
           ]
         }
