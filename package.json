@@ -11,7 +11,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "csv": "^1.1.0",
+    "file-system": "^2.2.2",
     "jQuery": "^1.7.4",
     "simple-git": "^1.63.0"
   }
