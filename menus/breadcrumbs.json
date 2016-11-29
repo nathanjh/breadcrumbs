@@ -36,7 +36,15 @@
             },
             {
               "label": "checkBufLength",
-              "command": "breadcrumbs:checkUndoBufferLength"              
+              "command": "breadcrumbs:checkUndoBufferLength"
+            },
+            {
+              "label": "gitCheckout",
+              "command": "breadcrumbs:gitCheckout"
+            },
+            {
+              "label": "gitCheckback",
+              "command": "breadcrumbs:gitCheckback"
             }
           ]
         }
