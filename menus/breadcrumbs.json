@@ -45,6 +45,14 @@
             {
               "label": "New Comment",
               "command": "breadcrumbs:newComment"
+            },
+            {
+              "label": "gitCheckout",
+              "command": "breadcrumbs:gitCheckout"
+            },
+            {
+              "label": "gitCheckback",
+              "command": "breadcrumbs:gitCheckback"
             }
           ]
         }
