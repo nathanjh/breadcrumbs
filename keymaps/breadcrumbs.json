@@ -1,6 +1,8 @@
 {
   "atom-workspace": {
     "ctrl-alt-o": "breadcrumbs:toggle",
-    "ctrl-alt-i": "breadcrumbs:toggleRecord"
+    "ctrl-alt-i": "breadcrumbs:toggleRecord",
+    "ctrl-alt-1": "breadcrumbs:gitCheckout",
+    "ctrl-alt-2": "breadcrumbs:gitCheckback"
   }
 }
