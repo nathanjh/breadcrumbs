@@ -48,7 +48,7 @@
             },
             {
               "label": "gitCheckout",
-              "command": "breadcrumbs:gitCheckout"
+              "command": "breadcrumbs:checkoutSandbox"
             },
             {
               "label": "gitCheckback",
